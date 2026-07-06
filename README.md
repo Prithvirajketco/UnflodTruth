@@ -1,5 +1,7 @@
 # intruth
 
+-- beta open! no API key needed, find it @ https://intruth-beta.vercel.app/ :-3
+
 hi everyone!
 
 https://chromewebstore.google.com/detail/InTruth/ikmpglbpcdoapfelcbfpoaddmhmaaocg?hl=en&authuser=0

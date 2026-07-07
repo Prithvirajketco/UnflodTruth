@@ -1,6 +1,6 @@
 # UnflodTruth
 
-Welcome to **UnflodTruth**, a powerful tool designed to help uncover and verify factual information in real-time. 
+Welcome to **UnflodTruth**, a powerful web application designed to help uncover and verify factual information in real-time. 
 
 ## Acknowledgements
 
@@ -16,9 +16,9 @@ We would like to acknowledge that this project was built upon and enhanced using
 ## Getting Started
 
 1. Clone this repository.
-2. Follow the setup instructions (coming soon) to install dependencies.
-3. Configure your API keys.
-4. Run the extension in your browser!
+2. Navigate to the web application directory and install dependencies (e.g., `npm install`).
+3. Configure your API keys in the environment.
+4. Run the development server (e.g., `npm run dev`) to start the website locally!
 
 ## Contributing
 

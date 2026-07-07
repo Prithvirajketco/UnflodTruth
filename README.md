@@ -1,4 +1,4 @@
-# intruth
+# UnflodTruth (intruth)
 
 -- beta open! no API key needed, find it @ https://intruth-beta.vercel.app/ :-3
 
